@@ -1,0 +1,15 @@
+{
+  "name": "skdslider",
+  "description": "Jquery full width image slider",
+  "version", "1.0.0",
+  "main": "",
+  "keywords": [
+    "skdslider"
+  ],
+  "authors": [
+    "Khem Puthea"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
