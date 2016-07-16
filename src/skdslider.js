@@ -1,11 +1,10 @@
 /* =========================================================
 
 // SKD Slider
-// Update Date: 2014-11-22
-// Author: Samir Kumar Das
-// Mail: cse.samir@gmail.com
-// Web: http://dandywebsolution.com/skdslider
-// Version: 1.2
+// Update Date: 2016-07-15
+// Author: Khem Puthea
+// Mail: puthea.khem@gmail.com
+// Version: 1.0.0
  *  $('#demo').skdslider({'delay':5000, 'animationSpeed': 2000});
  * 
 
